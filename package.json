@@ -1,0 +1,11 @@
+{
+  "name": "cats_pjs",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.5.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.0.6",
+    "webpack-dev-server": "2.9.5"
+  }
+}
