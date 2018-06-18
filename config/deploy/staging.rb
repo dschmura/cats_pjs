@@ -1,5 +1,5 @@
 
-  server "cats_pjs.com", user: 'deployer', roles: %w{app db web}
+  server 'lsa-mis-rails-staging.miserver.it.umich.edu', user: 'deployer', roles: %w{app db web}
   set :stage, :staging
   set :branch, :master
   set :deploy_user, "deployer"
