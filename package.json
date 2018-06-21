@@ -2,7 +2,8 @@
   "name": "cats_pjs",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "^3.5.3"
+    "@rails/webpacker": "^3.5.3",
+    "babili": "^0.1.4"
   },
   "devDependencies": {
     "webpack-cli": "^3.0.6",
